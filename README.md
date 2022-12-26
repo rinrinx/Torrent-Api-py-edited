@@ -1,3 +1,8 @@
+#### You can fork the repo and deploy on VPS or deploy it on Heroku :)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy)
+<p><a href="https://heroku.com/deploy?template=https://github.com/akprivatebots/Torrent-Api-py-edited"> <img src="https://img.shields.io/badge/Deploy%20To%20Heroku-blueviolet?style=for-the-badge&logo=heroku" width="200""/></a></p>
+
+
 <h2 align='center'>Torrents Api ✨</h2>
 <p align="center">
 <a href="https://github.com/Ryuk-me"><img title="Author" src="https://img.shields.io/badge/Author-Ryuk--me-red.svg?style=for-the-badge&logo=github"></a>
